@@ -1,6 +1,1 @@
-{
-  "sources": {
-    "edem":"https://epg.lampa.stream/edem/epg/$id.json",
-    "iptvx":"https://epg.lampa.stream/iptvx.one/epg/$id.json"
-  }
-}
+{}
