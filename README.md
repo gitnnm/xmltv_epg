@@ -8,4 +8,4 @@ XMLTV EPG — это скрипт для загрузки и обработки 
 
    ```bash
    git clone https://github.com/gitnnm/xmltv_epg.git
-   cd epg-data-fetcher
+   cd xmltv_epg
