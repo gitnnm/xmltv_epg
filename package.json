@@ -7,7 +7,7 @@
     "start": "node server.js"
   },
   "author": "Arty (gitnnm)",
-  "license": "ISC",
+  "license": "CC BY-NC-SA",
   "description": "",
   "dependencies": {
     "axios": "^1.7.7",
