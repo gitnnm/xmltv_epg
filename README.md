@@ -1,7 +1,7 @@
 
-# EPG Processor
+# XMLTV EPG
 
-This is a Node.js application for fetching and processing Electronic Program Guide (EPG) data from multiple sources. The application generates an XML file with TV program data and compresses it into a .gz format.
+Это приложение Node.js для извлечения и обработки данных электронного программного гида (EPG) из нескольких источников. Приложение генерирует XML-файл с данными телепрограммы и сжимает его в формат .gz.
 
 ## 📋 Предварительные настройки
 
