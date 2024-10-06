@@ -12,7 +12,7 @@ XMLTV EPG - приложение NodeJS для извлечения и обра�
 {
   "sources": {
     "edem": "https://epg.lampa.stream/edem/epg/$id.json",
-    "iptvx": "https://epg.lampa.stream/api/id/$id.json"
+    "iptvx": "https://epg.lampa.stream/iptvx/epg/$id.json"
   }
 }
 ```
